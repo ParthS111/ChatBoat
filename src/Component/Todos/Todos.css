@@ -1,0 +1,17 @@
+
+.todos-widget{
+    color: blueviolet;
+}
+
+.todos-widget{
+ margin: 0;
+ padding: 0;
+ list-style: none;
+
+}
+
+.todos-widget-item{
+list-style: 1rem;
+margin: 8px 0;
+text-align: left;
+}

@@ -12,6 +12,10 @@ class MessageParser {
       this.actionProvider.helloWorldHandler()
       // this.actionProvider.greet()
     }
+    if (lowerCaseMessage.includes("todos")) {
+      this.actionProvider.todosHandler()
+      // this.actionProvider.greet()
+    }
   }
 }
 
