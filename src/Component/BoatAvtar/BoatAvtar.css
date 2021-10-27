@@ -1,0 +1,14 @@
+
+.crazy-dot-avtar{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9rem;
+    background-color: blueviolet;
+    color: cornsilk;
+    margin-right: 10px;
+    font-weight: bolder;
+}
